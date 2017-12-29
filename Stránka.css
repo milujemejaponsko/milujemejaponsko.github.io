@@ -1,0 +1,34 @@
+* {
+	margin: 0
+}
+
+nav {
+	position: fixed;
+	width: 100
+	height: 50px;
+	background-color: rgba(0,0,0,.5);
+	z-index: 99;
+}
+
+.sect{
+    height: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.subSection{
+	height: 50%;
+    background-color: white;
+}
+
+.sectone{
+	background-image: url("../#001/5931756-japanese-wallpapers.jpg");
+}
+
+.secttwo{
+	background-image: url("../#001/japanese-wallpaper-7.jpg");
+}
+
+.sectthree{
+	background-image: url("../#001/太極.jpg");
+}
